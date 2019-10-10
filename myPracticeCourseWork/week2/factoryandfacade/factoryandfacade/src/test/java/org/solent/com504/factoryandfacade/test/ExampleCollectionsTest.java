@@ -27,7 +27,7 @@ public class ExampleCollectionsTest {
     // https://docs.oracle.com/javase/tutorial/java/generics/index.html
 
     // in this case we are using an ArrayList implemtation which is a list implementted usign an array
-    
+    Animal[] fred;
      // this is simply a list of objects.
     List unTypedList = new ArrayList();
 
